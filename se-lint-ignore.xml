@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Dedication starts with lowercase letter, small-capped.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-3.xhtml">
 		<ignore>
 			<code>y-031</code>
