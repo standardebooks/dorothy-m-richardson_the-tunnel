@@ -45,7 +45,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56447</dc:source>
 		<dc:source>https://archive.org/details/tunneltu00richrich</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tunnel</meta>
