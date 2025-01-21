@@ -49,5 +49,4 @@ section[epub|type~="dedication"] > *{
 /* Custom dedication styling */
 [epub|type~="dedication"] > p{
 	font-variant: all-small-caps;
-	line-height: 2;
 }
