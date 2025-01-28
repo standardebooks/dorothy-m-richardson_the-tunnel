@@ -41,7 +41,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pilgrimage</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">Our protagonist begins a new and independent life in London.</dc:description>
+		<dc:description id="description">A young woman begins a new and independent life in London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Tunnel&lt;/i&gt; is the fourth installment in in &lt;a href="https://standardebooks.org/ebooks/dorothy-m-richardson"&gt;Dorothy M. Richardson’s&lt;/a&gt; pioneering sequence of semi-autobiographical novels, &lt;a href="https://standardebooks.org/collections/pilgrimage"&gt;Pilgrimage&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;In this, the longest of the thirteen novels, Miriam Henderson moves to a furnished room in Bloomsbury, London, where she begins an independent life and takes on a job in a dental office.&lt;/p&gt;
