@@ -50,7 +50,10 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56447</dc:source>
 		<dc:source>https://archive.org/details/tunneltu00richrich</dc:source>
-		<meta property="se:production-notes">In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.</meta>
+		<meta property="se:production-notes">
+			In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.
+			The transcription contains this note: “In a few cases, perhaps to mark Madame Szigmondy’s pronounciation, “r” has been substituted by “g” (“pgonounce”, “Thégèse”, “rgun”, “cgeature”). This seems to be intentional and has not been corrected.”
+		</meta>
 		<meta property="se:word-count">94529</meta>
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dorothy-m-richardson_the-tunnel</meta>
