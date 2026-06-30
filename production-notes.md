@@ -1,0 +1,3 @@
+In early volumes, Richardson separated the text into numbered subchapters. In later volumes, and later revisions, she eliminated these numbers and left spacing between these "subchapters." The printed text for this edition uses numbers, but for consistency and based on the author's later-expressed intention they are replaced in this Standard Ebooks edition with unnumbered thought breaks.
+
+The transcription contains this note: “In a few cases, perhaps to mark Madame Szigmondy’s pronounciation, “r” has been substituted by “g” (“pgonounce,” “Thégèse,” “rgun,” “cgeature”). This seems to be intentional and has not been corrected.”
