@@ -54,7 +54,7 @@
 		<dc:source>https://archive.org/details/tunneltu00richrich</dc:source>
 		<meta property="schema:wordCount">92983</meta>
 		<meta property="schema:educationalLevel">74.08</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/dorothy-m-richardson_the-tunnel" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Dorothy M. Richardson</dc:creator>
