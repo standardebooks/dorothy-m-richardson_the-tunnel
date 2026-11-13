@@ -60,7 +60,7 @@
 		<dc:creator id="author">Dorothy M. Richardson</dc:creator>
 		<meta property="file-as" refines="#author">Richardson, Dorothy M.</meta>
 		<meta property="schema:alternateName" refines="#author">Dorothy Miller Richardson</meta>
-		<link href="https://en.wikipedia.org/wiki/Dorothy_M._Richardson" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Dorothy_Richardson" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50051627.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
